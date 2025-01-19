@@ -46,6 +46,3 @@ This mockup provides a user-friendly interface for interacting with the project,
 - Google Colab for running the notebooks
 - GPU enabled (for faster training)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
